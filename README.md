@@ -40,8 +40,8 @@ This project has diverse applications, including:
 ---
 
 ### 👨‍💻 Contributors
-- **Aditya Bhatt**: Optimization and algorithm development.
-- **Jagadeswara P K V Pothuri**: Simulation and practical implementation.
+- **Jagadeswara P K V Pothuri**
+- **Aditya Bhatt**
 
 ---
 
