@@ -1,5 +1,4 @@
 <h1 align="center">Concurrent Design of UAVs for Real-Time Object Tracking</h1>
----
 
 ### 🚀 Project Overview
 - **Challenge**: Achieving precise and efficient object tracking in dynamic environments.
@@ -55,8 +54,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 1. Kumar, B. V., et al., "Minimum-variance synthetic discriminant functions," JOSA A, 1986.
 2. Bolme, D. S., et al., "Visual object tracking using adaptive correlation filters," CVPR, 2010.
 3. Jiang, P., et al., "A Review of YOLO algorithm developments," Procedia Computer Science, 2022.
-
----
-
-### 🌐 Project Webpage
-For detailed documentation, visit the [project webpage](https://pjpkvarma.github.io/paper-submitted/).
