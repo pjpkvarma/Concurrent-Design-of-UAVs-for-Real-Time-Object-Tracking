@@ -54,3 +54,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 1. Kumar, B. V., et al., "Minimum-variance synthetic discriminant functions," JOSA A, 1986.
 2. Bolme, D. S., et al., "Visual object tracking using adaptive correlation filters," CVPR, 2010.
 3. Jiang, P., et al., "A Review of YOLO algorithm developments," Procedia Computer Science, 2022.
+
+---
+### ⚠️ Project Status
+This project has been completed but the code will be made public once the associated research paper has been published.
