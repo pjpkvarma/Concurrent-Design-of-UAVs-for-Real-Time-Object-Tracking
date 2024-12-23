@@ -1,10 +1,6 @@
 <h1 align="center">Concurrent Design of UAVs for Real-Time Object Tracking</h1>
 <h3 align="center">Enhancing UAV performance through YOLOv2 detection and MOSSE tracking</h3>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2MxMzZhamhyenh1ODZ0bmtlZXVvMTRwYXo5dWd4OGJpaTJxaHJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="UAV Tracking" width="600"/>
-</p>
-
 ---
 
 ### 🚀 Project Overview
